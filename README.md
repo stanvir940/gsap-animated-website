@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/animated-website.git
+    git clone https://github.com/stanvir940/gsap-animated-website.git
     ```
 
 2. **Navigate to the project directory:**
@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **MDN Web Docs:** For excellent documentation on HTML, CSS, and JavaScript.
 
 ## Contact
-If you have any questions or feedback, please contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, please contact me at [your-email@example.com](mailto:hmtanvir940@gmail.com).
 
 ---
 
