@@ -4,7 +4,6 @@ var tl = gsap.timeline({
     start: "0% 95%",
     end: "50% 50%",
     scrub: true,
-    markers: true,
   },
 });
 
@@ -69,15 +68,35 @@ var tl2 = gsap.timeline({
     start: "0% 95%",
     end: "70% 50%",
     scrub: true,
-    markers: true,
   },
 });
 
 tl2.from("#orange-lem, #orange-lem3", {
-  duration: 1,
+  //   duration: 1,
   x: 300,
   rotation: 360,
   scale: 0.5,
   opacity: 0,
   ease: "power2.inOut",
+});
+
+tl2.to("#fanta1", {
+  top: "220%",
+  right: "24%",
+  scale: 0.8,
+});
+
+var tl3 = gsap.timeline({
+  scrollTrigger: {
+    trigger: ".three",
+    start: "0% 95%",
+    end: "70% 50%",
+    scrub: true,
+  },
+});
+
+tl3.from("#round-orange", {
+  y: 200,
+  opacity: 0,
+  duration: 0.5,
 });
