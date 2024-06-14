@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **MDN Web Docs:** For excellent documentation on HTML, CSS, and JavaScript.
 
 ## Contact
-If you have any questions or feedback, please contact me at [your-email@example.com](mailto:hmtanvir940@gmail.com).
+If you have any questions or feedback, please contact me at [hmtanvir940@gmail.com.com](mailto:hmtanvir940@gmail.com).
 
 ---
 
